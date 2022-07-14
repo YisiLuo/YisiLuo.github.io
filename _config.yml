@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Yi-Si Luo"
-  avatar           : "profile.png"
-  bio              : ""
+  avatar           : "me.jpg"
+  bio              : "Master student at Xi'an Jiaotong University"
   location         : "China"
-  employer         :
+  employer         : 
   pubmed           : 
   googlescholar    : 
-  email            :
+  email            : "yisiluo1221@foxmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "https://github.com/YisiLuo"
   google_plus      :
   keybase          :
   instagram        :
