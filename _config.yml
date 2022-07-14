@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi-Si Luo (罗倚斯) | Hoempage"
+title                    : "Yi-Si Luo (罗倚斯) | Homepage"
 title_separator          : "-"
 name                     : &name "Yi-Si Luo"
 description              : &description "Master Student at Xi’an Jiaotong University"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Yi-Si Luo"
   avatar           : "me.jpg"
-  bio              : "Master student at Xi'an Jiaotong University"
+  bio              : "Master student at Xi'an Jiaotong University yisiluo1221@foxmail.com"
   location         : "China"
   employer         : 
   pubmed           : 
