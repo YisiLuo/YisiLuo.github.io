@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yisi Luo (罗倚斯)"
+title: "Yi-Si Luo (罗倚斯)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
