@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img src="uestc4.jpg" width="10%" align="center"><img src="xjtu.jpg" width="10%" align="center">  
+<img src="uestc4.jpg" width="10%" align="center"><img src="xtju.jpg" width="10%" align="center">  
 
 Greetings! I received my bachelor degree in information and computing sciences at School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) supervised by [Prof. Xi-Le Zhao](https://zhaoxile.github.io).
 
