@@ -7,25 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img src="uestc4.jpg" width="10%" align="center"><img src="xjtu.jpg" width="10%" align="center">  
 
-<table border="0">
-  <tr>
-    <td width="85%">
-      <p>Greetings! I received my bachelor degree in information and computing sciences at School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) supervised by [Prof. Xi-Le Zhao](https://zhaoxile.github.io).</p>
-    </td>
-    <td width="15%">
-      <img src="uestc4.jpg" width="100%" align="center">  
-    </td>
-    </tr>
-    <tr>
-    <td width="85%">
-      <p>I am currently pursuing the master degree at School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU) supervised by [Prof. De-Yu Meng](https://gr.xjtu.edu.cn/en/web/dymeng).</p>
-    </td>
-    <td width="15%">
-      <img src="xjtu.jpg" width="100%" align="center">  
-    </td>
-      </tr>
-</table>
+Greetings! I received my bachelor degree in information and computing sciences at School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) supervised by [Prof. Xi-Le Zhao](https://zhaoxile.github.io).
+
+I am currently pursuing the master degree at School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU) supervised by [Prof. De-Yu Meng](https://gr.xjtu.edu.cn/en/web/dymeng).
 
 My research interests include model-based tensor modeling and unsupervised learning for low-level vision tasks, e.g., inpainting, denoising, and deraining. I serve as a regular reviewer for CVPR 2022 and ECCV 2022.
 
