@@ -6,10 +6,12 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
----
-<img src="uestc4.jpg" width="10%" align="center">  <img src="xtju.jpg" width="9.8%" align="center"> 
+--- 
+<img src="uestc4.jpg" width="10%" align="right">
 
 Greetings! I received my bachelor degree in information and computing sciences at School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) supervised by [Prof. Xi-Le Zhao](https://zhaoxile.github.io).
+
+<img src="xtju.jpg" width="9.8%" align="right"> 
 
 I am currently pursuing the master degree at School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU) supervised by [Prof. De-Yu Meng](https://gr.xjtu.edu.cn/en/web/dymeng).
 
