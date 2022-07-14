@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : " 西安交通大学 / Yi-Si Luo (罗倚斯)"
+title                    : "<img src="xjtu_+.jpg" width="20%" align="right"> / Yi-Si Luo (罗倚斯)"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
