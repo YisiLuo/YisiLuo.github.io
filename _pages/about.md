@@ -20,7 +20,7 @@ My research interests include model-based tensor modeling and unsupervised learn
 
 Publications
 ======
-Jun-Hao Zhuang, **Yi-Si Luo**, Xi-Le Zhao, Tai-Xiang Jiang, and Bi-Chuan Guo, ''UConNet: Unsupervised Controllable Network for Image and Video Deraining,'' ***ACM International Conference on Multimedia (ACM MM)***, 2022. [<a href="https://arxiv.org/abs/2105.14320">supplementary materials</a>]
+Jun-Hao Zhuang, **Yi-Si Luo**, Xi-Le Zhao, Tai-Xiang Jiang, and Bi-Chuan Guo, ''UConNet: Unsupervised Controllable Network for Image and Video Deraining,'' ***ACM International Conference on Multimedia (ACM MM)***, 2022. [<a href="https://raw.githubusercontent.com/YisiLuo/YisiLuo.github.io/master/supplementary_materials.pdf">supplementary materials</a>]
 
 **Yi-Si Luo**, Xi-Le Zhao, Tai-Xiang Jiang, Yi Chang, Michael K. Ng, and Chao Li, ''Self-Supervised Nonlinear Transform-Based Tensor Nuclear Norm for Multi-Dimensional Image Recovery,'' ***IEEE Transactions on Image Processing***, 2022. [<a href="https://arxiv.org/abs/2105.14320">arXiv</a>]
 
