@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yi-Si Luo (罗倚斯) | Homepage"
+title                    : "Yisi Luo (罗倚斯) | Homepage"
 title_separator          : "-"
-name                     : &name "Yi-Si Luo"
+name                     : &name "Yisi Luo"
 description              : &description "Master Student at Xi’an Jiaotong University"
 url                      : https://YisiLuo.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -87,7 +87,7 @@ author:
   employer         : 
   pubmed           : 
   googlescholar    : 
-  email            : "yisiluo1221@foxmail.com"
+  email            : "Email: yisiluo1221@foxmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
