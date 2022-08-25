@@ -10,6 +10,8 @@ redirect_from:
 
 <meta name="google-site-verification" content="x6sUauzLJFwTCPzHNAdG_3kxXRCgl0kSn1j5K9C5Q6E" />
 
+<meta name="baidu-site-verification" content="code-nLKfKROwfR" />
+
 <img src="uestc4.jpg" width="10%" align="right">
 
 Greetings! I received my bachelor degree in information and computing sciences at School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) supervised by [Prof. Xi-Le Zhao](https://zhaoxile.github.io).
