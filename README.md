@@ -1,7 +1,7 @@
 Yisi Luo (罗倚斯)
 ======
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="me.jpg" width="12%" align="center"><img src="xtju.jpg" width="7.8%" align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="uestc4.jpg" width="8%" align="right">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="me.jpg" width="12%" align="center"><img src="xtju.jpg" width="6.8%" align="right">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="uestc4.jpg" width="7%" align="right">
 
 > Greetings! I received my bachelor degree in information and computing sciences at School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) supervised by [Prof. Xile Zhao](https://zhaoxile.github.io). I am currently pursuing the master degree at School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU) supervised by [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng).
 
