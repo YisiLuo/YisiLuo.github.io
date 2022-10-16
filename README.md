@@ -1,3 +1,5 @@
+<img src="me.jpg" width="10%" align="left">
+
 Yisi Luo (罗倚斯)
 ======
 
