@@ -1,27 +1,11 @@
----
-permalink: /
-title: "Yisi Luo (罗倚斯)"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
---- 
-
 Yisi Luo (罗倚斯)
 ======
 
-<img src="me.jpg" width="10%" align="center">
+<img src="me.jpg" width="12%" align="center"><img src="xtju.jpg" width="7.8%" align="right"> <img src="uestc4.jpg" width="8%" align="right">
 
-- Greetings! I received my bachelor degree in information and computing sciences at School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) supervised by [Prof. Xile Zhao](https://zhaoxile.github.io).
+> Greetings! I received my bachelor degree in information and computing sciences at School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) supervised by [Prof. Xile Zhao](https://zhaoxile.github.io). I am currently pursuing the master degree at School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU) supervised by [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng).
 
-<img src="uestc4.jpg" width="10%" align="center">
-
-- I am currently pursuing the master degree at School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU) supervised by [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng).
-
-<img src="xtju.jpg" width="9.8%" align="center"> 
-
-- My research interests include model-based tensor modeling and unsupervised learning for low-level visual tasks, e.g., inpainting, denoising, and deraining. I serve as a regular reviewer for CVPR, ECCV, and AAAI.
+> My research interests include model-based tensor modeling and unsupervised learning for low-level visual tasks, e.g., inpainting, denoising, and deraining. I serve as a regular reviewer for CVPR, ECCV, and AAAI.
 
 Publications
 ======
