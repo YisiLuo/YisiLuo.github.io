@@ -1,4 +1,4 @@
-<img src="me.jpg" width="10%" align="right">
+<img src="me.jpg" width="10%" align="center">
 
 Yisi Luo (罗倚斯)
 ======
