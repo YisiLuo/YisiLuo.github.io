@@ -1,7 +1,7 @@
-<img src="me.jpg" width="10%" align="center">
-
 Yisi Luo (罗倚斯)
 ======
+
+<img src="me.jpg" width="10%" align="center">
 
 <img src="uestc4.jpg" width="10%" align="right">
 
