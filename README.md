@@ -4,8 +4,8 @@ title: "Yisi Luo (罗倚斯)"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
-  - /about/
-  - /about.html
+  - /_pages/about/
+  - /_pages/about.html
 --- 
 
 Yisi Luo (罗倚斯)
