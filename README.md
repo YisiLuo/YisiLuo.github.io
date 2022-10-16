@@ -1,3 +1,13 @@
+---
+permalink: /
+title: "Yisi Luo (罗倚斯)"
+excerpt: "About me"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+--- 
+
 Yisi Luo (罗倚斯)
 ======
 
