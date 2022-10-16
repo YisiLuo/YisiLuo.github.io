@@ -1,3 +1,5 @@
+<img src="uestc4.jpg" width="10%" align="right">
+
 Greetings! I received my bachelor degree in information and computing sciences at School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) supervised by [Prof. Xile Zhao](https://zhaoxile.github.io).
 
 <img src="xtju.jpg" width="9.8%" align="right"> 
