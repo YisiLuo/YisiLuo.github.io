@@ -9,6 +9,8 @@ Yisi Luo (罗倚斯)
 
 &nbsp;&nbsp;Publications
 ======
+- **Yisi Luo**, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng, ''Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery,'' 2022. [<a href="https://arxiv.org/abs/2212.00262">arXiv</a>]
+
 - **Yisi Luo**, Xile Zhao, Taixiang Jiang, Yi Chang, Michael K. Ng, and Chao Li, ''Self-Supervised Nonlinear Transform-Based Tensor Nuclear Norm for Multi-Dimensional Image Recovery,'' ***IEEE Transactions on Image Processing***, 2022. [<a href="https://arxiv.org/abs/2105.14320">arXiv</a>] [<a href="https://github.com/YisiLuo/S2NTNN">code</a>]
 
 - **Yisi Luo**, Xile Zhao, Deyu Meng, and Taixiang Jiang, ''HLRTF: Hierarchical Low-Rank Tensor Factorization for Inverse Problems in Multi-Dimensional Imaging,'' ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2022. [<a href="https://github.com/YisiLuo/HLRTF">code</a>]
