@@ -5,7 +5,8 @@ Yisi Luo (罗倚斯)
 
 - Greetings! I received my bachelor degree in information and computing sciences at School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) supervised by [Prof. Xile Zhao](https://zhaoxile.github.io). I am currently pursuing the master degree at School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU) supervised by [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng).
 
-- My research interests include model-based tensor modeling and unsupervised learning for low-level visual tasks, e.g., inpainting, denoising, and deraining. I serve as a regular reviewer for CVPR, ECCV, and AAAI.
+- My research interests include model-based tensor modeling and unsupervised learning for low-level visual tasks, e.g., inpainting, denoising, and deraining. 
+- I serve as a regular reviewer for CVPR, ICCV, ECCV, AAAI, and ACM MM.
 
 &nbsp;&nbsp;Publications
 ======
