@@ -21,7 +21,7 @@ Yisi Luo (罗倚斯)
 - Zitai Xu\*, **Yisi Luo**\*, Bangyu Wu, and Deyu Meng, ''S2S-WTV: Seismic Data Noise Attenuation Using Weighted Total Variation Regularized Self-Supervised Learning,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2023. (\*Equal contribution)
 
 - Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, Taixiang Jiang, Yi Chang, and Jun Liu, ''Unsupervised Video Rain Streaks Removal with Deep Foreground-Background Modeling,'' ***Journal of Computational and Applied Mathematics***, 2023. (\*Equal contribution)
-- 
+
 - Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, and Taixiang Jiang, ''Reconciling Hand-Crafted and Self-Supervised Deep Priors for Video Directional Rain Streaks Removal,'' ***IEEE Signal Processing Letters***, 2021. (\*Equal contribution)
 
 - Junhao Zhuang, **Yisi Luo**, Xile Zhao, Taixiang Jiang, and Bichuan Guo, ''UConNet: Unsupervised Controllable Network for Image and Video Deraining,'' ***ACM International Conference on Multimedia (ACM MM)***, 2022. [<a href="https://raw.githubusercontent.com/YisiLuo/YisiLuo.github.io/master/supplementary_materials.pdf">supplementary materials</a>]
