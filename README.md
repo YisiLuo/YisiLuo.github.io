@@ -6,7 +6,7 @@ Yisi Luo (罗倚斯)
 - Greetings! I received my bachelor degree in information and computing sciences at School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) supervised by [Prof. Xile Zhao](https://zhaoxile.github.io). I am currently pursuing the master degree at School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU) supervised by [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng).
 
 - My research interests include model-based tensor modeling and unsupervised learning for low-level visual tasks, e.g., inpainting, denoising, and deraining. 
-- I serve as a regular reviewer for CVPR, ICCV, ECCV, AAAI, and ACM MM.
+- I served as a reviewer/PC for CVPR, ICCV, ECCV, AAAI, and ACM MM.
 
 &nbsp;&nbsp;Publications
 ======
@@ -20,11 +20,11 @@ Yisi Luo (罗倚斯)
 
 - Zitai Xu\*, **Yisi Luo**\*, Bangyu Wu, and Deyu Meng, ''S2S-WTV: Seismic Data Noise Attenuation Using Weighted Total Variation Regularized Self-Supervised Learning,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2023. (\*Equal contribution)
 
-- Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, Taixiang jiang, Yi Chang, Jun Liu, ''Unsupervised Video Rain Streaks Removal with Deep Foreground-Background Modeling,'' ***Journal of Computational and Applied Mathematics***, 2023. (\*Equal contribution)
+- Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, Taixiang Jiang, Yi Chang, and Jun Liu, ''Unsupervised Video Rain Streaks Removal with Deep Foreground-Background Modeling,'' ***Journal of Computational and Applied Mathematics***, 2023. (\*Equal contribution)
+- 
+- Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, and Taixiang Jiang, ''Reconciling Hand-Crafted and Self-Supervised Deep Priors for Video Directional Rain Streaks Removal,'' ***IEEE Signal Processing Letters***, 2021. (\*Equal contribution)
 
 - Junhao Zhuang, **Yisi Luo**, Xile Zhao, Taixiang Jiang, and Bichuan Guo, ''UConNet: Unsupervised Controllable Network for Image and Video Deraining,'' ***ACM International Conference on Multimedia (ACM MM)***, 2022. [<a href="https://raw.githubusercontent.com/YisiLuo/YisiLuo.github.io/master/supplementary_materials.pdf">supplementary materials</a>]
-
-- Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, and Taixiang Jiang, ''Reconciling Hand-Crafted and Self-Supervised Deep Priors for Video Directional Rain Streaks Removal,'' ***IEEE Signal Processing Letters***, 2021. (\*Equal contribution)
 
 - Jianli Wang, Tingzhu Huang, Xile Zhao, **Yisi Luo**, and Taixiang Jiang, ''CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multi-Dimensional Image Completion,'' ***IEEE Transactions on Neural Networks and Learning Systems***, 2022.
 
