@@ -7,6 +7,9 @@ Yisi Luo (罗倚斯)
 
 - My research interests include low-rank tensor modeling and unsupervised learning for data recovery, e.g., image inpainting, deraining, seismic denoising. I served as a reviewer/PC for CVPR, ICCV, ECCV, AAAI, and ACM MM.
 
+- E-mail: yisiluo1221@foxmail.com
+- Wechat/Phone: 13882039025
+
 &nbsp;&nbsp;Publications
 ======
 - **Yisi Luo**, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng, ''Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery,'' submitted. [<a href="https://arxiv.org/abs/2212.00262">arXiv</a>]
