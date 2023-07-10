@@ -26,7 +26,7 @@ Yisi Luo (罗倚斯)
 
 - Junhao Zhuang, **Yisi Luo**, Xile Zhao, Taixiang Jiang, and Bichuan Guo, ''UConNet: Unsupervised Controllable Network for Image and Video Deraining,'' ***ACM International Conference on Multimedia (ACM MM)***, 2022. [<a href="https://raw.githubusercontent.com/YisiLuo/YisiLuo.github.io/master/supplementary_materials.pdf">supplementary materials</a>]
 
-- Jiayi Li, Jinyu Xie, **Yisi Luo**^\#, Xile Zhao^\#, and Jianli Wang, ''H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization'', ***IEEE Geoscience and Remote Sensing Letters***, 2023. (^\#Corresponding author)
+- Jiayi Li, Jinyu Xie, **Yisi Luo**$^\#$, Xile Zhao$^\#$, and Jianli Wang, ''H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization'', ***IEEE Geoscience and Remote Sensing Letters***, 2023. ($^\#$Corresponding author)
 
 - Jianli Wang, Tingzhu Huang, Xile Zhao, **Yisi Luo**, and Taixiang Jiang, ''CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multi-Dimensional Image Completion,'' ***IEEE Transactions on Neural Networks and Learning Systems***, 2022.
 
