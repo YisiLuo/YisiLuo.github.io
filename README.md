@@ -36,6 +36,8 @@ Yisi Luo (罗倚斯)
 
 &nbsp;&nbsp;Awards
 ======
+- Huawei Scholarship, 2023 (华为奖学金)
+
 - Outstanding Winner of 2021 ICM/MCM, 2021 (数学建模美赛 O 奖)
 
 - AMS Award of 2021 ICM/MCM, 2021 (数学建模美赛美国数学会冠名奖)
