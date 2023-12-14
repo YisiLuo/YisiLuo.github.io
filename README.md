@@ -8,7 +8,8 @@ Yisi Luo (罗倚斯)
 - My research interests include low-rank tensor modeling and unsupervised learning for data recovery, e.g., image inpainting, deraining, seismic denoising. I served as a reviewer/PC for CVPR, ICCV, ECCV, AAAI, and ACM MM.
 
 - E-mail: yisiluo1221@foxmail.com
-- Wechat/Phone: 13882039025
+- [<a href="https://github.com/YisiLuo/LRTFR"><img src="tool.png" width="15%" align="center"></a>]
+- <img src="tool.png" width="15%" align="center">
 
 &nbsp;&nbsp;Publications
 ======
