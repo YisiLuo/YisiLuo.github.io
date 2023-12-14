@@ -11,7 +11,7 @@ Yisi Luo (罗倚斯)
   
 &nbsp;&nbsp;Projects
 ======
-<a href="https://github.com/YisiLuo/LRTFR"><img src="tool.png" width="300" align="center"></a>
+- <a href="https://github.com/YisiLuo/LRTFR"><img src="tool.png" width="300" align="center"></a>
 
 &nbsp;&nbsp;Publications
 ======
