@@ -16,8 +16,9 @@ Yisi Luo (罗倚斯)
 
 &nbsp;&nbsp;Publications
 ======
+- **Yisi Luo**, Xile Zhao, and Deyu Meng, ''Revisiting Nonlocal Self-Similarity from Continuous Representation,'' ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2024. [<a href="https://arxiv.org/abs/2401.00708">arXiv</a>]
+  
 - **Yisi Luo**, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng, ''Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery,'' ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2024. [<a href="https://arxiv.org/abs/2212.00262">arXiv</a>] [<a href="https://github.com/YisiLuo/LRTFR">code</a>]
-
 
 - **Yisi Luo**, Xile Zhao, Taixiang Jiang, Yi Chang, Michael K. Ng, and Chao Li, ''Self-Supervised Nonlinear Transform-Based Tensor Nuclear Norm for Multi-Dimensional Image Recovery,'' ***IEEE Transactions on Image Processing***, 2022. [<a href="https://arxiv.org/abs/2105.14320">arXiv</a>] [<a href="https://github.com/YisiLuo/S2NTNN">code</a>]
 
@@ -40,6 +41,8 @@ Yisi Luo (罗倚斯)
 - Jiayi Li, Jinyu Xie, **Yisi Luo**<sup>\#</sup>, Xile Zhao<sup>\#</sup>, and Jianli Wang, ''H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization'', ***IEEE Geoscience and Remote Sensing Letters***, 2023. (<sup>\#</sup>Corresponding author)
 
 - Jianli Wang, Tingzhu Huang, Xile Zhao, **Yisi Luo**, and Taixiang Jiang, ''CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multi-Dimensional Image Completion,'' ***IEEE Transactions on Neural Networks and Learning Systems***, 2022.
+
+- Kexin Shi, Jiangjun Peng, Jing Gao, **Yisi Luo**, and Shuang Xu, ''Hyperspectral Image denoising via Double Subspace Deep Prior,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2024.
 
 &nbsp;&nbsp;Awards
 ======
