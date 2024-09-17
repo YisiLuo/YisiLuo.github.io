@@ -42,7 +42,7 @@ Yisi Luo (罗倚斯)
 
 - Jianli Wang, Tingzhu Huang, Xile Zhao, **Yisi Luo**, and Taixiang Jiang, ''CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multi-Dimensional Image Completion,'' ***IEEE Transactions on Neural Networks and Learning Systems***, 2022.
 
-- Kexin Shi, Jiangjun Peng, Jing Gao, **Yisi Luo**, and Shuang Xu, ''Hyperspectral Image denoising via Double Subspace Deep Prior,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2024.
+- Kexin Shi, Jiangjun Peng, Jing Gao, **Yisi Luo**, and Shuang Xu, ''Hyperspectral Image Denoising via Double Subspace Deep Prior,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2024.
 
 &nbsp;&nbsp;Awards
 ======
