@@ -36,6 +36,8 @@ Yisi Luo (罗倚斯)
   
 - Zitai Xu, **Yisi Luo**, Bangyu Wu, Deyu Meng, and Yangkang Chen, ''Deep Nonlocal Regularizer: A Self-Supervised Learning Method for 3D Seismic Denoising,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2024.
 
+- Yanyi Li, Xi Zhang, **Yisi Luo**<sup>\#</sup>, and Deyu Meng, ''Deep Rank-One Tensor Functional Factorization for Multi-Dimensional Data Recovery'', ***AAAI Conference on Artificial Intelligence (AAAI)***, 2025. (<sup>\#</sup>Corresponding author)
+
 - Zitai Xu, Bangyu Wu<sup>\#</sup>, **Yisi Luo**<sup>\#</sup>, Liuqing Yang, and Yangkang Chen, ''SelfMixed: Self-supervised Mixed Noise Attenuation for Distributed Acoustic Sensing Data'', ***Geophysics***, 2024. (<sup>\#</sup>Corresponding author)
 
 - Jiayi Li, Jinyu Xie, **Yisi Luo**<sup>\#</sup>, Xile Zhao<sup>\#</sup>, and Jianli Wang, ''H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization'', ***IEEE Geoscience and Remote Sensing Letters***, 2023. (<sup>\#</sup>Corresponding author)
