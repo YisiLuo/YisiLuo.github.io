@@ -16,6 +16,8 @@ Yisi Luo (罗倚斯)
 
 &nbsp;&nbsp;Publications
 ======
+- **Yisi Luo**, Xile Zhao, Kai Ye, and Deyu Meng, ''NeurTV: Total Variation on the Neural Domain,'' ***SIAM Journal on Imaging Sciences***, 2025. [<a href="https://arxiv.org/abs/2405.17241">arXiv</a>]
+- 
 - **Yisi Luo**, Xile Zhao, and Deyu Meng, ''Revisiting Nonlocal Self-Similarity from Continuous Representation,'' ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2024. [<a href="https://arxiv.org/abs/2401.00708">arXiv</a>] [<a href="https://github.com/YisiLuo/CRNL">code</a>]
   
 - **Yisi Luo**, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng, ''Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery,'' ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2024. [<a href="https://arxiv.org/abs/2212.00262">arXiv</a>] [<a href="https://github.com/YisiLuo/LRTFR">code</a>]
