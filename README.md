@@ -20,7 +20,7 @@ Yisi Luo (罗倚斯)
 
 - **Yisi Luo**, Xile Zhao, and Deyu Meng, ''Revisiting Nonlocal Self-Similarity from Continuous Representation,'' ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2024. [<a href="https://arxiv.org/abs/2401.00708">arXiv</a>] [<a href="https://github.com/YisiLuo/CRNL">code</a>]
   
-- **Yisi Luo**, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng, ''Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery,'' ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2024. [<a href="https://arxiv.org/abs/2212.00262">arXiv</a>] [<a href="https://github.com/YisiLuo/LRTFR">code</a>]
+- **Yisi Luo**, Xile Zhao, Zhemin Li, Michael K. Ng, and Deyu Meng, ''Low-Rank Tensor Function Representation for Multi-Dimensional Data Recovery,'' ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2024. (ESI highly cited paper) [<a href="https://arxiv.org/abs/2212.00262">arXiv</a>] [<a href="https://github.com/YisiLuo/LRTFR">code</a>]
 
 - **Yisi Luo**, Xile Zhao, Taixiang Jiang, Yi Chang, Michael K. Ng, and Chao Li, ''Self-Supervised Nonlinear Transform-Based Tensor Nuclear Norm for Multi-Dimensional Image Recovery,'' ***IEEE Transactions on Image Processing***, 2022. [<a href="https://arxiv.org/abs/2105.14320">arXiv</a>] [<a href="https://github.com/YisiLuo/S2NTNN">code</a>]
 
@@ -53,6 +53,10 @@ Yisi Luo (罗倚斯)
 
 &nbsp;&nbsp;Awards
 ======
+- 国家自然科学基金青年学生项目, 2024-2027
+
+- 西安交大“学术之星”, 2024
+
 - Huawei Scholarship, 2023 (华为奖学金)
 
 - Outstanding Winner of 2021 ICM/MCM, 2021 (数学建模美赛 O 奖)
