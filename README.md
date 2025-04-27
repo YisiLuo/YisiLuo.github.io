@@ -42,6 +42,8 @@ Yisi Luo (罗倚斯)
 
 - Jiangjun Peng, **Yisi Luo**, Xiangyong Cao, Shuang Xu, and Deyu Meng, ''Beyond Low-rankness: Guaranteed Matrix Recovery via Modified Nuclear Norm,'' ***International Joint Conference on Artificial Intelligence (IJCAI)***, 2025.
 
+- Shengrui Wang, **Yisi Luo**, Sanfu Li, Jiangjun Peng, and Bangyu Wu, ''Efficient Seismic Random Noise Attenuation Via KAN-Empowered Neural Low-Rank Representation,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2025.
+
 - Yanyi Li, Xi Zhang, **Yisi Luo**<sup>\#</sup>, and Deyu Meng, ''Deep Rank-One Tensor Functional Factorization for Multi-Dimensional Data Recovery'', ***AAAI Conference on Artificial Intelligence (AAAI)***, 2025. (<sup>\#</sup>Corresponding author)
 
 - Zitai Xu, Bangyu Wu<sup>\#</sup>, **Yisi Luo**<sup>\#</sup>, Liuqing Yang, and Yangkang Chen, ''SelfMixed: Self-supervised Mixed Noise Attenuation for Distributed Acoustic Sensing Data'', ***Geophysics***, 2024. (<sup>\#</sup>Corresponding author)
