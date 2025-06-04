@@ -5,7 +5,7 @@ Yisi Luo (罗倚斯)
 
 - Greetings! I received my bachelor degree in information and computing sciences at the School of Mathematical Sciences, University of Electronic Science and Technology of China (UESTC) in 2022, supervised by [Prof. Xile Zhao](https://zhaoxile.github.io). I am currently a Ph.D. student started from 2024 at the School of Mathematics and Statistics, Xi’an Jiaotong University (XJTU), supervised by [Prof. Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng).
 
-- My research interests include low-rank tensor modeling and unsupervised learning for data recovery, e.g., image inpainting, deraining, seismic denoising. I served as a reviewer/PC for CVPR, ICCV, ECCV, AAAI, ACM MM, SIAM J. Imag. Sci., IEEE TCSVT, IEEE TGRS, IEEE TII, etc.
+- My research interests include low-rank tensor modeling and unsupervised learning for data recovery, e.g., image inpainting, deraining, seismic denoising. I served as a reviewer/PC for CVPR, ICCV, ECCV, AAAI, NeurIPS, ACM MM, SIAM J. Imag. Sci., IEEE TCSVT, IEEE TGRS, IEEE TII, etc.
 
 - E-mail: yisiluo1221@foxmail.com
   
