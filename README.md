@@ -38,6 +38,16 @@ Yisi Luo (罗倚斯)
 
 - Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, and Taixiang Jiang, ''Reconciling Hand-Crafted and Self-Supervised Deep Priors for Video Directional Rain Streaks Removal,'' ***IEEE Signal Processing Letters***, 2021. (\*Equal contribution)
 
+- Yanyi Li, Xi Zhang, **Yisi Luo**<sup>\#</sup>, and Deyu Meng, ''Deep Rank-One Tensor Functional Factorization for Multi-Dimensional Data Recovery'', ***AAAI Conference on Artificial Intelligence (AAAI)***, 2025. (<sup>\#</sup>Corresponding author)
+
+- Guancheng Zhou, **Yisi Luo**<sup>\#</sup>, Xile Zhao, Deyu Meng<sup>\#</sup>, ''Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition'', ***IEEE Transactions on Multimedia***, 2025. (<sup>\#</sup>Corresponding author)
+
+- Ruihua Chen, Bangyu Wu<sup>\#</sup>, Meng Li, and **Yisi Luo**<sup>\#</sup>, ''Full Waveform Inversion with Velocity Model Low-Rank Implicit Neural Representation'', ***IEEE Transactions on Geoscience and Remote Sensing***, 2025. (<sup>\#</sup>Corresponding author)
+
+- Zitai Xu, Bangyu Wu<sup>\#</sup>, **Yisi Luo**<sup>\#</sup>, Liuqing Yang, and Yangkang Chen, ''SelfMixed: Self-supervised Mixed Noise Attenuation for Distributed Acoustic Sensing Data'', ***Geophysics***, 2024. (<sup>\#</sup>Corresponding author)
+
+- Jiayi Li, Jinyu Xie, **Yisi Luo**<sup>\#</sup>, Xile Zhao<sup>\#</sup>, and Jianli Wang, ''H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization'', ***IEEE Geoscience and Remote Sensing Letters***, 2023. (<sup>\#</sup>Corresponding author)
+
 - Junhao Zhuang, **Yisi Luo**, Xile Zhao, Taixiang Jiang, and Bichuan Guo, ''UConNet: Unsupervised Controllable Network for Image and Video Deraining,'' ***ACM International Conference on Multimedia (ACM MM)***, 2022. [<a href="https://raw.githubusercontent.com/YisiLuo/YisiLuo.github.io/master/supplementary_materials.pdf">supplementary materials</a>]
   
 - Zitai Xu, **Yisi Luo**, Bangyu Wu, Deyu Meng, and Yangkang Chen, ''Deep Nonlocal Regularizer: A Self-Supervised Learning Method for 3D Seismic Denoising,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2024.
@@ -45,14 +55,6 @@ Yisi Luo (罗倚斯)
 - Jiangjun Peng, **Yisi Luo**, Xiangyong Cao, Shuang Xu, and Deyu Meng, ''Beyond Low-rankness: Guaranteed Matrix Recovery via Modified Nuclear Norm,'' ***International Joint Conference on Artificial Intelligence (IJCAI)***, 2025.
 
 - Shengrui Wang, **Yisi Luo**, Sanfu Li, Jiangjun Peng, and Bangyu Wu, ''Efficient Seismic Random Noise Attenuation Via KAN-Empowered Neural Low-Rank Representation,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2025.
-
-- Yanyi Li, Xi Zhang, **Yisi Luo**<sup>\#</sup>, and Deyu Meng, ''Deep Rank-One Tensor Functional Factorization for Multi-Dimensional Data Recovery'', ***AAAI Conference on Artificial Intelligence (AAAI)***, 2025. (<sup>\#</sup>Corresponding author)
-
-- Ruihua Chen, Bangyu Wu<sup>\#</sup>, Meng Li, and **Yisi Luo**<sup>\#</sup>, ''Full Waveform Inversion with Velocity Model Low-Rank Implicit Neural Representation'', ***IEEE Transactions on Geoscience and Remote Sensing***, 2025. (<sup>\#</sup>Corresponding author)
-
-- Zitai Xu, Bangyu Wu<sup>\#</sup>, **Yisi Luo**<sup>\#</sup>, Liuqing Yang, and Yangkang Chen, ''SelfMixed: Self-supervised Mixed Noise Attenuation for Distributed Acoustic Sensing Data'', ***Geophysics***, 2024. (<sup>\#</sup>Corresponding author)
-
-- Jiayi Li, Jinyu Xie, **Yisi Luo**<sup>\#</sup>, Xile Zhao<sup>\#</sup>, and Jianli Wang, ''H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization'', ***IEEE Geoscience and Remote Sensing Letters***, 2023. (<sup>\#</sup>Corresponding author)
 
 - Jianli Wang, Tingzhu Huang, Xile Zhao, **Yisi Luo**, and Taixiang Jiang, ''CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multi-Dimensional Image Completion,'' ***IEEE Transactions on Neural Networks and Learning Systems***, 2022.
 
