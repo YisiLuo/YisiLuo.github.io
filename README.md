@@ -62,7 +62,7 @@ Yisi Luo (罗倚斯)
 
 - Tingwei Zhou, Xile Zhao, Weihao Wu, Jianli Wang, **Yisi Luo**, ''Frequency-Aware Implicit Neural Representation for Multi-Dimensional Data Recovery,'' ***IEEE Transactions on Circuits and Systems for Video Technology***, 2025.
 
-- Jinyu Xie, Hao Zhang, Xile Zhao, **Yisi Luo**, ''IRTF: A New Tensor Factorization for Irregular Multidimensional Data Recovery,'', ***Knowledge-Based Systems***, 2025.
+- Jinyu Xie, Hao Zhang, Xile Zhao, **Yisi Luo**, ''IRTF: A New Tensor Factorization for Irregular Multidimensional Data Recovery,'' ***Knowledge-Based Systems***, 2025.
 
 - Pei Liu, Jiangjun Peng, **Yisi Luo**, Jing Fu, Jialin Li, Xiangyong Cao, ''DDFet: Infrared Small Target Detection via a Dual-Domain Fused Deep Unfolding Network,'' ***IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing***, 2025.
 
