@@ -38,6 +38,8 @@ Yisi Luo (罗倚斯)
 
 - Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, and Taixiang Jiang, ''Reconciling Hand-Crafted and Self-Supervised Deep Priors for Video Directional Rain Streaks Removal,'' ***IEEE Signal Processing Letters***, 2021. (\*Equal contribution)
 
+- Xi Zhang, Yanyi Li, **Yisi Luo**<sup>\#</sup>, Qi Xie, and Deyu Meng, ''Online Functional Tensor Decomposition via Continual Learning for Streaming Data Completion'', ***Annual Conference on Neural Information Processing Systems (NeurIPS)***, 2025. (<sup>\#</sup>Corresponding author) (Spotlight)
+
 - Yanyi Li, Xi Zhang, **Yisi Luo**<sup>\#</sup>, and Deyu Meng, ''Deep Rank-One Tensor Functional Factorization for Multi-Dimensional Data Recovery'', ***AAAI Conference on Artificial Intelligence (AAAI)***, 2025. (<sup>\#</sup>Corresponding author)
 
 - Guancheng Zhou, **Yisi Luo**<sup>\#</sup>, Xile Zhao, Deyu Meng<sup>\#</sup>, ''Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition'', ***IEEE Transactions on Multimedia***, 2025. (<sup>\#</sup>Corresponding author)
