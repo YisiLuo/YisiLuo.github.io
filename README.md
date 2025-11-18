@@ -68,6 +68,8 @@ Yisi Luo (罗倚斯)
 
 - Pei Liu, Jiangjun Peng, **Yisi Luo**, Jing Fu, Jialin Li, Xiangyong Cao, ''DDFet: Infrared Small Target Detection via a Dual-Domain Fused Deep Unfolding Network,'' ***IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing***, 2025.
 
+- Pei Liu, Li Pang, Jiangjun Peng, **Yisi Luo**, Junmin Liu, Xiangyong Cao, ''CTVNet: Gradient Prior-Guided Deep Unfolding Network for Infrared Small Target Detection,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2025.
+
 - Kexin Shi, Jiangjun Peng, Jing Gao, **Yisi Luo**, and Shuang Xu, ''Hyperspectral Image Denoising via Double Subspace Deep Prior,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2024.
 
 &nbsp;&nbsp;Awards
