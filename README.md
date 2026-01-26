@@ -18,6 +18,8 @@ Yisi Luo (罗倚斯)
 ======
 - **Yisi Luo**, Xile Zhao, and Deyu Meng, ''Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives,'' arXiv:2505.15222, 2025. [<a href="https://arxiv.org/abs/2505.15222">arXiv</a>] [<a href="https://github.com/YisiLuo/Continuous-Representation-Zoo">repository</a>]
 
+- **Yisi Luo** and Deyu Meng, ''Separable Neural Networks: Approximation Theory, NTK Regime, and Preconditioned Gradient Descent,'' ***International Conference on Learning Representations (ICLR)***, 2026.
+
 - **Yisi Luo**, Xile Zhao, Kai Ye, and Deyu Meng, ''STINR: Deciphering Spatial Transcriptomics via Implicit Neural Representation,'' ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2025. [<a href="https://github.com/YisiLuo/STINR">code</a>]
 
 - **Yisi Luo**, Xile Zhao, Kai Ye, and Deyu Meng, ''NeurTV: Total Variation on the Neural Domain,'' ***SIAM Journal on Imaging Sciences***, 2025. [<a href="https://arxiv.org/abs/2405.17241">arXiv</a>] [<a href="https://github.com/YisiLuo/NeurTV">code</a>]
@@ -38,17 +40,21 @@ Yisi Luo (罗倚斯)
 
 - Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, and Taixiang Jiang, ''Reconciling Hand-Crafted and Self-Supervised Deep Priors for Video Directional Rain Streaks Removal,'' ***IEEE Signal Processing Letters***, 2021. (\*Equal contribution)
 
-- Xi Zhang, Yanyi Li, **Yisi Luo**<sup>\#</sup>, Qi Xie, and Deyu Meng, ''Online Functional Tensor Decomposition via Continual Learning for Streaming Data Completion'', ***Annual Conference on Neural Information Processing Systems (NeurIPS)***, 2025. (<sup>\#</sup>Corresponding author) (Spotlight)
+- Ruihua Chen, **Yisi Luo**<sup>\#</sup>, Bangyu Wu, and Deyu Meng, ''Unveiling the Mechanism of Continuous Representation Full-Waveform Inversion: A Wave-Based Neural Tangent Kernel Framework,'' ***International Conference on Learning Representations (ICLR)***, 2026. (<sup>\#</sup>Corresponding author)
 
-- Yanyi Li, Xi Zhang, **Yisi Luo**<sup>\#</sup>, and Deyu Meng, ''Deep Rank-One Tensor Functional Factorization for Multi-Dimensional Data Recovery'', ***AAAI Conference on Artificial Intelligence (AAAI)***, 2025. (<sup>\#</sup>Corresponding author)
+- Guancheng Zhou, Zelin Zeng, **Yisi Luo**<sup>\#</sup>, Qi Xie, and Deyu Meng, ''Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory,'' ***International Conference on Learning Representations (ICLR)***, 2026. (<sup>\#</sup>Corresponding author)
 
-- Guancheng Zhou, **Yisi Luo**<sup>\#</sup>, Xile Zhao, Deyu Meng<sup>\#</sup>, ''Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition'', ***IEEE Transactions on Multimedia***, 2025. (<sup>\#</sup>Corresponding author)
+- Xi Zhang, Yanyi Li, **Yisi Luo**<sup>\#</sup>, Qi Xie, and Deyu Meng, ''Online Functional Tensor Decomposition via Continual Learning for Streaming Data Completion,'' ***Annual Conference on Neural Information Processing Systems (NeurIPS)***, 2025. (<sup>\#</sup>Corresponding author) (Spotlight)
 
-- Ruihua Chen, Bangyu Wu<sup>\#</sup>, Meng Li, and **Yisi Luo**<sup>\#</sup>, ''Full Waveform Inversion with Velocity Model Low-Rank Implicit Neural Representation'', ***IEEE Transactions on Geoscience and Remote Sensing***, 2025. (<sup>\#</sup>Corresponding author)
+- Yanyi Li, Xi Zhang, **Yisi Luo**<sup>\#</sup>, and Deyu Meng, ''Deep Rank-One Tensor Functional Factorization for Multi-Dimensional Data Recovery,'' ***AAAI Conference on Artificial Intelligence (AAAI)***, 2025. (<sup>\#</sup>Corresponding author)
 
-- Zitai Xu, Bangyu Wu<sup>\#</sup>, **Yisi Luo**<sup>\#</sup>, Liuqing Yang, and Yangkang Chen, ''SelfMixed: Self-supervised Mixed Noise Attenuation for Distributed Acoustic Sensing Data'', ***Geophysics***, 2024. (<sup>\#</sup>Corresponding author)
+- Guancheng Zhou, **Yisi Luo**<sup>\#</sup>, Xile Zhao, Deyu Meng<sup>\#</sup>, ''Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition,'' ***IEEE Transactions on Multimedia***, 2025. (<sup>\#</sup>Corresponding author)
 
-- Jiayi Li, Jinyu Xie, **Yisi Luo**<sup>\#</sup>, Xile Zhao<sup>\#</sup>, and Jianli Wang, ''H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization'', ***IEEE Geoscience and Remote Sensing Letters***, 2023. (<sup>\#</sup>Corresponding author)
+- Ruihua Chen, Bangyu Wu<sup>\#</sup>, Meng Li, and **Yisi Luo**<sup>\#</sup>, ''Full Waveform Inversion with Velocity Model Low-Rank Implicit Neural Representation,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2025. (<sup>\#</sup>Corresponding author)
+
+- Zitai Xu, Bangyu Wu<sup>\#</sup>, **Yisi Luo**<sup>\#</sup>, Liuqing Yang, and Yangkang Chen, ''SelfMixed: Self-supervised Mixed Noise Attenuation for Distributed Acoustic Sensing Data,'' ***Geophysics***, 2024. (<sup>\#</sup>Corresponding author)
+
+- Jiayi Li, Jinyu Xie, **Yisi Luo**<sup>\#</sup>, Xile Zhao<sup>\#</sup>, and Jianli Wang, ''H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization,'' ***IEEE Geoscience and Remote Sensing Letters***, 2023. (<sup>\#</sup>Corresponding author)
 
 - Junhao Zhuang, **Yisi Luo**, Xile Zhao, Taixiang Jiang, and Bichuan Guo, ''UConNet: Unsupervised Controllable Network for Image and Video Deraining,'' ***ACM International Conference on Multimedia (ACM MM)***, 2022. [<a href="https://raw.githubusercontent.com/YisiLuo/YisiLuo.github.io/master/supplementary_materials.pdf">supplementary materials</a>]
   
