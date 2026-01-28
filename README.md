@@ -42,9 +42,9 @@ Yisi Luo (罗倚斯)
 
 - Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, and Taixiang Jiang, ''Reconciling Hand-Crafted and Self-Supervised Deep Priors for Video Directional Rain Streaks Removal,'' ***IEEE Signal Processing Letters***, 2021. (\*Equal contribution)
 
-- Ruihua Chen, **Yisi Luo**<sup>\#</sup>, Bangyu Wu, and Deyu Meng, ''Unveiling the Mechanism of Continuous Representation Full-Waveform Inversion: A Wave-Based Neural Tangent Kernel Framework,'' ***International Conference on Learning Representations (ICLR)***, 2026. (<sup>\#</sup>Corresponding author)
+- Ruihua Chen, **Yisi Luo**<sup>\#</sup>, Bangyu Wu<sup>\#</sup>, and Deyu Meng, ''Unveiling the Mechanism of Continuous Representation Full-Waveform Inversion: A Wave-Based Neural Tangent Kernel Framework,'' ***International Conference on Learning Representations (ICLR)***, 2026. (<sup>\#</sup>Corresponding author)
 
-- Guancheng Zhou, Zelin Zeng, **Yisi Luo**<sup>\#</sup>, Qi Xie, and Deyu Meng, ''Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory,'' ***International Conference on Learning Representations (ICLR)***, 2026. (<sup>\#</sup>Corresponding author)
+- Guancheng Zhou, Zelin Zeng, **Yisi Luo**<sup>\#</sup>, Qi Xie, and Deyu Meng<sup>\#</sup>, ''Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory,'' ***International Conference on Learning Representations (ICLR)***, 2026. (<sup>\#</sup>Corresponding author)
 
 - Xi Zhang, Yanyi Li, **Yisi Luo**<sup>\#</sup>, Qi Xie, and Deyu Meng, ''Online Functional Tensor Decomposition via Continual Learning for Streaming Data Completion,'' ***Annual Conference on Neural Information Processing Systems (NeurIPS)***, 2025. (<sup>\#</sup>Corresponding author) (Spotlight)
 
