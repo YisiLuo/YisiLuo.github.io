@@ -34,6 +34,8 @@ Yisi Luo (罗倚斯)
 
 - **Yisi Luo**, Xile Zhao, Taixiang Jiang, Yubang Zheng, and Yi Chang, ''Hyperspectral Mixed Noise Removal Via Spatial-Spectral Constrained Unsupervised Deep Image Prior,'' ***IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing***, 2021. [<a href="https://arxiv.org/abs/2008.09753">arXiv</a>] [<a href="https://github.com/YisiLuo/S2DIP">code</a>]
 
+- Mingxuan Li, Peisen Sun, **Yisi Luo**, Guancheng Zhou, Xiaofei Yang, Deyu Meng, and Kai Ye, ''SpatialCOC: an integrative framework for spatial continuous mapping and cross-omics correction in spatial multi-omics data,'' ***Nature Communications***, 2026.
+
 - Zitai Xu\*, **Yisi Luo**\*, Bangyu Wu, and Deyu Meng, ''S2S-WTV: Seismic Data Noise Attenuation Using Weighted Total Variation Regularized Self-Supervised Learning,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2023. (\*Equal contribution)
 
 - Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, Taixiang Jiang, Yi Chang, and Jun Liu, ''Unsupervised Video Rain Streaks Removal with Deep Foreground-Background Modeling,'' ***Journal of Computational and Applied Mathematics***, 2023. (\*Equal contribution)
