@@ -18,7 +18,7 @@ Yisi Luo (罗倚斯)
 ======
 - **Yisi Luo**, Xile Zhao, and Deyu Meng, ''Continuous Representation Methods, Theories, and Applications: An Overview and Perspectives,'' arXiv:2505.15222, 2025. [<a href="https://arxiv.org/abs/2505.15222">arXiv</a>] [<a href="https://github.com/YisiLuo/Continuous-Representation-Zoo">repository</a>]
 
-- **Yisi Luo** and Deyu Meng, ''Separable Neural Networks: Approximation Theory, NTK Regime, and Preconditioned Gradient Descent,'' ***International Conference on Learning Representations (ICLR)***, 2026.
+- **Yisi Luo** and Deyu Meng, ''Separable Neural Networks: Approximation Theory, NTK Regime, and Preconditioned Gradient Descent,'' ***International Conference on Learning Representations (ICLR)***, 2026. [<a href="https://github.com/YisiLuo/SepPGD">code</a>]
 
 - **Yisi Luo**, Xile Zhao, Kai Ye, and Deyu Meng, ''STINR: Deciphering Spatial Transcriptomics via Implicit Neural Representation,'' ***IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)***, 2025. [<a href="https://github.com/YisiLuo/STINR">code</a>]
 
