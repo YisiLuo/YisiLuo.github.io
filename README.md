@@ -56,6 +56,8 @@ Yisi Luo (罗倚斯)
 
 - Zitai Xu, Bangyu Wu<sup>\#</sup>, **Yisi Luo**<sup>\#</sup>, Liuqing Yang, and Yangkang Chen, ''SelfMixed: Self-supervised Mixed Noise Attenuation for Distributed Acoustic Sensing Data,'' ***Geophysics***, 2024. (<sup>\#</sup>Corresponding author)
 
+- Mingdi Hu, Ruifang Zhang, **Yisi Luo**<sup>\#</sup>, Bingyi Jing, and Deyu Meng, ''Semi-Supervised Image Rain Removal using Mutual Consistency of Rain Kernel Dictionaries,'' ***Knowledge-Based Systems***, 2026. (<sup>\#</sup>Corresponding author)
+
 - Jiayi Li, Jinyu Xie, **Yisi Luo**<sup>\#</sup>, Xile Zhao<sup>\#</sup>, and Jianli Wang, ''H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization,'' ***IEEE Geoscience and Remote Sensing Letters***, 2023. (<sup>\#</sup>Corresponding author)
 
 - Junhao Zhuang, **Yisi Luo**, Xile Zhao, Taixiang Jiang, and Bichuan Guo, ''UConNet: Unsupervised Controllable Network for Image and Video Deraining,'' ***ACM International Conference on Multimedia (ACM MM)***, 2022. [<a href="https://raw.githubusercontent.com/YisiLuo/YisiLuo.github.io/master/supplementary_materials.pdf">supplementary materials</a>]
