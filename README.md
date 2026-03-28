@@ -42,6 +42,8 @@ Yisi Luo (罗倚斯)
 
 - Junhao Zhuang\*, **Yisi Luo**\*, Xile Zhao, and Taixiang Jiang, ''Reconciling Hand-Crafted and Self-Supervised Deep Priors for Video Directional Rain Streaks Removal,'' ***IEEE Signal Processing Letters***, 2021. (\*Equal contribution)
 
+- Chang Yu, **Yisi Luo**<sup>\#</sup>, Kai Ye, Xile Zhao, and Deyu Meng, ''Cross-Frequency Implicit Neural Representation with Self-Evolving Parameters,'' ***IEEE Transactions on Pattern Analysis and Machine Intelligence***, 2026. (<sup>\#</sup>Corresponding author)
+
 - Ruihua Chen, **Yisi Luo**<sup>\#</sup>, Bangyu Wu<sup>\#</sup>, and Deyu Meng, ''Unveiling the Mechanism of Continuous Representation Full-Waveform Inversion: A Wave-Based Neural Tangent Kernel Framework,'' ***International Conference on Learning Representations (ICLR)***, 2026. (<sup>\#</sup>Corresponding author)
 
 - Guancheng Zhou, Zelin Zeng, **Yisi Luo**<sup>\#</sup>, Qi Xie, and Deyu Meng<sup>\#</sup>, ''Tucker-FNO: Tensor Tucker-Fourier Neural Operator and its Universal Approximation Theory,'' ***International Conference on Learning Representations (ICLR)***, 2026. (<sup>\#</sup>Corresponding author)
