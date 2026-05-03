@@ -50,11 +50,15 @@ Yisi Luo (罗倚斯)
 
 - Xi Zhang, Yanyi Li, **Yisi Luo**<sup>\#</sup>, Qi Xie, and Deyu Meng, ''Online Functional Tensor Decomposition via Continual Learning for Streaming Data Completion,'' ***Annual Conference on Neural Information Processing Systems (NeurIPS)***, 2025. (<sup>\#</sup>Corresponding author) (Spotlight)
 
+- Guancheng Zhou, **Yisi Luo**<sup>\#</sup>, Zhengfu He, Zhenyu Jin, Xuyang Ge, Wentao Shu, Deyu Meng, and Xipeng Qiu,'' A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle,'' ***International Conference on Machine Learning (ICML)***, 2026. (<sup>\#</sup>Corresponding author) (Spotlight)
+
 - Yanyi Li, Xi Zhang, **Yisi Luo**<sup>\#</sup>, and Deyu Meng, ''Deep Rank-One Tensor Functional Factorization for Multi-Dimensional Data Recovery,'' ***AAAI Conference on Artificial Intelligence (AAAI)***, 2025. (<sup>\#</sup>Corresponding author)
 
 - Guancheng Zhou, **Yisi Luo**<sup>\#</sup>, Xile Zhao, Deyu Meng<sup>\#</sup>, ''Efficient Arbitrary-Scale Image Super-Resolution via Functional Tensor Decomposition,'' ***IEEE Transactions on Multimedia***, 2025. (<sup>\#</sup>Corresponding author)
 
 - Ruihua Chen, Bangyu Wu<sup>\#</sup>, Meng Li, and **Yisi Luo**<sup>\#</sup>, ''Full Waveform Inversion with Velocity Model Low-Rank Implicit Neural Representation,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2025. (<sup>\#</sup>Corresponding author)
+
+- Zelin Zeng, Guancheng Zhou, **Yisi Luo**<sup>\#</sup>, Xile Zhao, Qi Xie<sup>\#</sup>, and Deyu Meng, ''Multivariate Neural Directional Total Variation,'' ***Pattern Recognition***, 2026. (<sup>\#</sup>Corresponding author)
 
 - Zitai Xu, Bangyu Wu<sup>\#</sup>, **Yisi Luo**<sup>\#</sup>, Liuqing Yang, and Yangkang Chen, ''SelfMixed: Self-supervised Mixed Noise Attenuation for Distributed Acoustic Sensing Data,'' ***Geophysics***, 2024. (<sup>\#</sup>Corresponding author)
 
