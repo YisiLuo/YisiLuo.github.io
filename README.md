@@ -50,7 +50,7 @@ Yisi Luo (罗倚斯)
 
 - Xi Zhang, Yanyi Li, **Yisi Luo**<sup>\#</sup>, Qi Xie, and Deyu Meng, ''Online Functional Tensor Decomposition via Continual Learning for Streaming Data Completion,'' ***Annual Conference on Neural Information Processing Systems (NeurIPS)***, 2025. (<sup>\#</sup>Corresponding author) (Spotlight)
 
-- Guancheng Zhou, **Yisi Luo**<sup>\#</sup>, Zhengfu He, Zhenyu Jin, Xuyang Ge, Wentao Shu, Deyu Meng, and Xipeng Qiu,'' A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle,'' ***International Conference on Machine Learning (ICML)***, 2026. (<sup>\#</sup>Corresponding author) (Spotlight)
+- Guancheng Zhou, **Yisi Luo**<sup>\#</sup>, Zhengfu He, Zhenyu Jin, Xuyang Ge, Wentao Shu, Deyu Meng, and Xipeng Qiu, ''A Distributional View for Visual Mechanistic Interpretability: KL-Minimal Soft-Constraint Principle,'' ***International Conference on Machine Learning (ICML)***, 2026. (<sup>\#</sup>Corresponding author) (Spotlight)
 
 - Yanyi Li, Xi Zhang, **Yisi Luo**<sup>\#</sup>, and Deyu Meng, ''Deep Rank-One Tensor Functional Factorization for Multi-Dimensional Data Recovery,'' ***AAAI Conference on Artificial Intelligence (AAAI)***, 2025. (<sup>\#</sup>Corresponding author)
 
