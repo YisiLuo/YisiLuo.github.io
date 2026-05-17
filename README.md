@@ -74,6 +74,8 @@ Yisi Luo (罗倚斯)
 
 - Shengrui Wang, **Yisi Luo**, Sanfu Li, Jiangjun Peng, and Bangyu Wu, ''Efficient Seismic Random Noise Attenuation Via KAN-Empowered Neural Low-Rank Representation,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2025.
 
+- Shengrui Wang, **Yisi Luo**, Bangyu Wu, Jiangjun Peng, Yueming Ye, and 	Junxiong Jia, ''Efficient Nonlocal Tensor Function Representation for 3D Seismic Random Noise Attenuation,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2026.
+
 - Jianli Wang, Tingzhu Huang, Xile Zhao, **Yisi Luo**, and Taixiang Jiang, ''CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multi-Dimensional Image Completion,'' ***IEEE Transactions on Neural Networks and Learning Systems***, 2022.
 
 - Tingwei Zhou, Xile Zhao, Jianli Wang, **Yisi Luo**, Min Wang, Xiaoxuan Bai, Hong Yan, ''DTR: A Unified Deep Tensor Representation Framework for Multimedia Data Recovery,'' ***IEEE Transactions on Multimedia***, 2025.
