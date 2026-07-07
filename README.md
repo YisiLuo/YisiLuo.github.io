@@ -90,6 +90,8 @@ Yisi Luo (罗倚斯)
 
 - Kexin Shi, Jiangjun Peng, Jing Gao, **Yisi Luo**, and Shuang Xu, ''Hyperspectral Image Denoising via Double Subspace Deep Prior,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2024.
 
+- Xiang Lv, Mingwen Shao, Lingzhuang Meng, Chang Liu, **Yisi Luo**, Qiao Zhang, Xinyuan Chen, Qinglin Zhan, ''Semantic-aware Content Alignment for Multi-object Video Editing,'' ***Information Fusion***, 2026.
+
 &nbsp;&nbsp;Awards
 ======
 - 国家自然科学基金青年学生项目, 2024-2027
