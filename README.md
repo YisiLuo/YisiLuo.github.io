@@ -64,6 +64,8 @@ Yisi Luo (罗倚斯)
 
 - Pei Liu, **Yisi Luo**<sup>\#</sup>, Wenzhen Wang, Yinqiao Wang, Junjie Zhang, Hui Qiao, Chenqiang Gao, Deyu Meng, and Xiangyong Cao<sup>\#</sup>, ''Spatial-Temporal Infrared Small Target Detection via Motion-Aware Nonlocal Low-Rank Implicit Representation,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2026. (<sup>\#</sup>Corresponding author)
 
+- Yilun Lou, **Yisi Luo**<sup>\#</sup>, Jiangjun Peng, and Bingyi Jing, ''Hyperspectral Image Restoration via Spatial-Spectral Continuous Priors and Subspace Convolution,'' ***Expert Systems With Applications***, 2026. (<sup>\#</sup>Corresponding author)
+
 - Mingdi Hu, Ruifang Zhang, **Yisi Luo**<sup>\#</sup>, Bingyi Jing, and Deyu Meng, ''Semi-Supervised Image Rain Removal using Mutual Consistency of Rain Kernel Dictionaries,'' ***Knowledge-Based Systems***, 2026. (<sup>\#</sup>Corresponding author)
 
 - Jiayi Li, Jinyu Xie, **Yisi Luo**<sup>\#</sup>, Xile Zhao<sup>\#</sup>, and Jianli Wang, ''H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization,'' ***IEEE Geoscience and Remote Sensing Letters***, 2023. (<sup>\#</sup>Corresponding author)
