@@ -70,6 +70,10 @@ Yisi Luo (罗倚斯)
 
 - Jiayi Li, Jinyu Xie, **Yisi Luo**<sup>\#</sup>, Xile Zhao<sup>\#</sup>, and Jianli Wang, ''H2TF for Hyperspectral Image Denoising: Where Hierarchical Nonlinear Transform Meets Hierarchical Matrix Factorization,'' ***IEEE Geoscience and Remote Sensing Letters***, 2023. (<sup>\#</sup>Corresponding author)
 
+- Shengrui Wang\*, **Yisi Luo**\*, Bangyu Wu, Jiangjun Peng, Yueming Ye, and Junxiong Jia, ''Efficient Nonlocal Tensor Function Representation for 3D Seismic Random Noise Attenuation,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2026. (\*Equal contribution)
+
+- Zhemin Li\*, Liyuan Ma\*, **Yisi Luo**\*, Shilong Han, Hongxia Wang, and Deyu Meng, ''INRR: Plug-and-Play and Self-Learned Regularization for Implicit Neural Representations,'' ***IEEE Transactions on Image Processing***, 2026. (\*Equal contribution)
+
 - Junhao Zhuang, **Yisi Luo**, Xile Zhao, Taixiang Jiang, and Bichuan Guo, ''UConNet: Unsupervised Controllable Network for Image and Video Deraining,'' ***ACM International Conference on Multimedia (ACM MM)***, 2022. [<a href="https://raw.githubusercontent.com/YisiLuo/YisiLuo.github.io/master/supplementary_materials.pdf">supplementary materials</a>]
   
 - Zitai Xu, **Yisi Luo**, Bangyu Wu, Deyu Meng, and Yangkang Chen, ''Deep Nonlocal Regularizer: A Self-Supervised Learning Method for 3D Seismic Denoising,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2024.
@@ -77,8 +81,6 @@ Yisi Luo (罗倚斯)
 - Jiangjun Peng, **Yisi Luo**, Xiangyong Cao, Shuang Xu, and Deyu Meng, ''Beyond Low-rankness: Guaranteed Matrix Recovery via Modified Nuclear Norm,'' ***International Joint Conference on Artificial Intelligence (IJCAI)***, 2025.
 
 - Shengrui Wang, **Yisi Luo**, Sanfu Li, Jiangjun Peng, and Bangyu Wu, ''Efficient Seismic Random Noise Attenuation Via KAN-Empowered Neural Low-Rank Representation,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2025.
-
-- Shengrui Wang, **Yisi Luo**, Bangyu Wu, Jiangjun Peng, Yueming Ye, and 	Junxiong Jia, ''Efficient Nonlocal Tensor Function Representation for 3D Seismic Random Noise Attenuation,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2026.
 
 - Jianli Wang, Tingzhu Huang, Xile Zhao, **Yisi Luo**, and Taixiang Jiang, ''CoNoT: Coupled Nonlinear Transform-Based Low-Rank Tensor Representation for Multi-Dimensional Image Completion,'' ***IEEE Transactions on Neural Networks and Learning Systems***, 2022.
 
