@@ -74,6 +74,8 @@ Yisi Luo (罗倚斯)
 
 - Zhemin Li\*, Liyuan Ma\*, **Yisi Luo**\*, Shilong Han, Hongxia Wang, and Deyu Meng, ''INRR: Plug-and-Play and Self-Learned Regularization for Implicit Neural Representations,'' ***IEEE Transactions on Image Processing***, 2026. (\*Equal contribution)
 
+- Ruihua Chen, **Yisi Luo**, Wei Wu, Deyu Meng, and Bangyu Wu, ''An Overview of Full-Waveform Inversion with Deep Neural Network Model Reparameterization,'' ***Oil Geophysical Prospecting***, 2026.
+
 - Junhao Zhuang, **Yisi Luo**, Xile Zhao, Taixiang Jiang, and Bichuan Guo, ''UConNet: Unsupervised Controllable Network for Image and Video Deraining,'' ***ACM International Conference on Multimedia (ACM MM)***, 2022. [<a href="https://raw.githubusercontent.com/YisiLuo/YisiLuo.github.io/master/supplementary_materials.pdf">supplementary materials</a>]
   
 - Zitai Xu, **Yisi Luo**, Bangyu Wu, Deyu Meng, and Yangkang Chen, ''Deep Nonlocal Regularizer: A Self-Supervised Learning Method for 3D Seismic Denoising,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2024.
