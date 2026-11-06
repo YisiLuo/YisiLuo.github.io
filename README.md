@@ -60,6 +60,8 @@ Yisi Luo (罗倚斯)
 
 - Zelin Zeng, Guancheng Zhou, **Yisi Luo**<sup>\#</sup>, Xile Zhao, Qi Xie<sup>\#</sup>, and Deyu Meng, ''Multivariate Neural Directional Total Variation,'' ***Pattern Recognition***, 2026. (<sup>\#</sup>Corresponding author)
 
+- Zhenyu Jin, **Yisi Luo**<sup>\#</sup>, Xile Zhao, and Deyu Meng, ''Compressive Imaging Reconstruction via Tensor Decomposition-Based Multi-Resolution Grid Encoding,'' ***Inverse Problems and Imaging***, 2026. (<sup>\#</sup>Corresponding author)
+
 - Zitai Xu, Bangyu Wu<sup>\#</sup>, **Yisi Luo**<sup>\#</sup>, Liuqing Yang, and Yangkang Chen, ''SelfMixed: Self-supervised Mixed Noise Attenuation for Distributed Acoustic Sensing Data,'' ***Geophysics***, 2024. (<sup>\#</sup>Corresponding author)
 
 - Pei Liu, **Yisi Luo**<sup>\#</sup>, Wenzhen Wang, Yinqiao Wang, Junjie Zhang, Hui Qiao, Chenqiang Gao, Deyu Meng, and Xiangyong Cao<sup>\#</sup>, ''Spatial-Temporal Infrared Small Target Detection via Motion-Aware Nonlocal Low-Rank Implicit Representation,'' ***IEEE Transactions on Geoscience and Remote Sensing***, 2026. (<sup>\#</sup>Corresponding author)
